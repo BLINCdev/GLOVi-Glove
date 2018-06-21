@@ -1,8 +1,8 @@
 # GLOVi Glove
-The Gesture Layout Observation Via Impedance (GLOVi) Glove was designed as an open-source data capture glove specifically designed for intuitive control of the HANDi Hand and may be also useful in other applications where quantification of finger flexion/extension movements is necessary. The inexpensive design allows low capital investment for pilot research studies or hobby projects, making it possible to provide proof-of-concept without investing in more robust or capable data capture gloves.
+The Gesture Layout Observation Via Impedance (GLOVi) Glove was designed as an open-source data capture glove specifically designed for intuitive control of the HANDi Hand and may be also useful in other applications where quantification of finger flexion/extension movements is necessary. The inexpensive design allows low capital investment for pilot research studies or hobby projects, making it possible to provide proof-of-concept before investing in more robust or capable data capture gloves.
 
 ## Build your own GLOVi Glove
-The GLOVi Glove consists of off-the-shelf potentiometers, electronic hardware, easy-to find materials, and custom 3D printed parts. Instructions for building the hand and setting up the servos will be available in the near future, and will be your main go-to document while printing and building the glove.
+The GLOVi Glove consists of off-the-shelf potentiometers, electronic hardware, easy-to find materials, and custom 3D printed parts. Instructions for building the glove and setting up the potentiometers will be available in the near future, and will be your main go-to document while printing and building the glove.
 
 
 * __3D Print Files:__ The folder that contains the raw STL files as well as the .THING and .x3g files for 3D printing on a Makerbot Replicator 2. NOTE: The STL files have been adjusted to print with proper tolerances in the PLA material. Further, the print orientation is important for many of the files; refer to the .thing files provided if printing .STL files with other softwares besides MakerWare to ensure the proper print orientation.
